@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Tabra",
+  "version": "1.0.0",
+  "description": "Tabra - 생산성 중심 새 탭 확장 프로그램",
+  "icons": {
+    "128": "./icons/icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["storage", "alarms", "notifications", "geolocation"],
+  "host_permissions": ["https://api.unsplash.com/*", "https://api.openweathermap.org/*"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/*.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

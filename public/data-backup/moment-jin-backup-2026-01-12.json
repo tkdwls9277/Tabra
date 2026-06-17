@@ -1,0 +1,335 @@
+{
+  "version": "1.0.0",
+  "exportDate": "2026-01-12T05:13:11.314Z",
+  "data": {
+    "favorites": [
+      {
+        "id": "e581deeb-0551-44e4-ab47-56e01f57de43",
+        "label": "naver",
+        "url": "https://www.naver.com/"
+      },
+      {
+        "icon": "📍",
+        "id": "13e9b07f-1a45-45d5-bf61-0408070a79eb",
+        "label": "map",
+        "url": "https://map.naver.com/p?c=15.00,0,0,0,dh"
+      },
+      {
+        "id": "741d6339-2728-426e-9565-3abb72fbbec3",
+        "label": "my git",
+        "url": "https://github.com/tkdwls9277"
+      },
+      {
+        "icon": "🍀",
+        "id": "2f99c571-501a-4325-8b4d-0db0087aa711",
+        "label": "ododok",
+        "url": "https://www.notion.so/hcshin/Ododok-e06b330965bf498ebb7aafa90a73d617"
+      },
+      {
+        "icon": "📚",
+        "id": "d3f835b9-aaa4-428f-8d5b-55105845dfef",
+        "label": "my page",
+        "url": "https://www.notion.so/devsj/develop-17b372b7f0ad42cc9eb918636a9c657d"
+      },
+      {
+        "id": "dd794c5d-5434-412f-9c14-d704cd2c7756",
+        "label": "calendar",
+        "url": "https://timetreeapp.com/calendars/ZtfpC4WgHKrr"
+      },
+      {
+        "id": "629e82c6-eb53-49b1-b330-1edfb0fd5d00",
+        "label": "my drive",
+        "url": "https://drive.google.com/drive/my-drive"
+      }
+    ],
+    "favoritesOpen": false,
+    "notificationPanelOpen": false,
+    "notificationPanelOpen_Vertical": false,
+    "showFavoritesPanel": true,
+    "showFocusSection": true,
+    "showHourlyForecast": true,
+    "showNotificationPanel": true,
+    "showTodosPanel": true,
+    "showWeeklyForecast": true,
+    "showWorkPanel": true,
+    "todayFocus": "글쓰기모임 정리",
+    "todos": [
+      {
+        "date": "2025-12-09",
+        "done": true,
+        "id": "5e8e5569-67ab-4003-ac8c-5bfad05a60be",
+        "text": "보험"
+      },
+      {
+        "date": "2025-12-09",
+        "done": true,
+        "id": "08539e58-29ef-47f3-99f7-e1916f62be33",
+        "text": "방해금지"
+      },
+      {
+        "date": "2025-12-11",
+        "done": true,
+        "id": "050abf82-33e2-4f9a-8843-dce0241ac38b",
+        "text": "틸트 간판"
+      },
+      {
+        "date": "2025-12-15",
+        "done": false,
+        "id": "aef0da54-232b-4da7-8ce9-694004accd40",
+        "text": "글쓰기, 구글 문서 정리"
+      },
+      {
+        "date": "2025-12-16",
+        "done": true,
+        "id": "6a56600a-dd46-4022-8dfd-b511e322d454",
+        "text": "창문 스티커"
+      },
+      {
+        "date": "2025-12-23",
+        "done": true,
+        "id": "25300765-f7e7-46cb-a122-4a02c26c221b",
+        "text": "시우님 전화"
+      },
+      {
+        "date": "2025-12-23",
+        "done": true,
+        "id": "029fe8a1-26c9-45ab-8a25-6bc10a908ea3",
+        "text": "지역후원하기"
+      },
+      {
+        "date": "2025-12-29",
+        "done": true,
+        "id": "94551752-001a-46d0-a38b-957cfbb193e6",
+        "text": "회원권 등록"
+      },
+      {
+        "date": "2026-01-06",
+        "done": false,
+        "id": "889f253d-b2e9-49d9-93cd-bbd6ab219c6f",
+        "text": "전기 공사 세금명세 등록 확인"
+      },
+      {
+        "date": "2026-01-06",
+        "done": true,
+        "id": "a852d34d-d6ef-44f2-9d83-c7f5bb48a819",
+        "text": "방부제 확인"
+      },
+      {
+        "date": "2026-01-06",
+        "done": false,
+        "id": "6511fbdc-cc40-4d21-949b-9d67826f5f3c",
+        "text": "설 기차표"
+      },
+      {
+        "date": "2026-01-12",
+        "done": false,
+        "id": "4c296dca-e4cd-45f6-942d-72156a577f23",
+        "text": "글쓰기모임 글 정리"
+      },
+      {
+        "date": "2026-01-12",
+        "done": false,
+        "id": "92c5e91b-d77c-4515-b4e0-05190584f051",
+        "text": "부가세 신고"
+      },
+      {
+        "date": "2026-01-12",
+        "done": false,
+        "id": "0f2da2fd-732e-4861-93fd-a180e5b333f1",
+        "text": "1월은 짝수달 이과장님. T상 물린 것 확인 요청"
+      },
+      {
+        "date": "2026-01-12",
+        "done": false,
+        "id": "f6106768-6fb3-43ad-88ae-38363f3662df",
+        "text": "숙소"
+      }
+    ],
+    "todosOpen": true,
+    "todosOpen_Horizontal": false,
+    "todosOpen_Vertical": false,
+    "userName": "상진",
+    "weatherApiKey": "25101ddb40fe8f611b992f17f1d60b23",
+    "weatherPanelOpen": false,
+    "workPanelOpen": true,
+    "workPanelOpen_Vertical": false,
+    "workRecords": [
+      {
+        "checkIn": "10:12",
+        "checkOut": "19:13",
+        "date": "2025-12-08"
+      },
+      {
+        "checkIn": "10:29",
+        "checkOut": "19:44",
+        "date": "2025-12-09"
+      },
+      {
+        "checkIn": "10:30",
+        "checkOut": "19:50",
+        "date": "2025-12-10"
+      },
+      {
+        "checkIn": "09:17",
+        "checkOut": "21:22",
+        "date": "2025-12-11"
+      },
+      {
+        "checkIn": "10:17",
+        "checkOut": "16:10",
+        "date": "2025-12-12"
+      },
+      {
+        "checkIn": "10:17",
+        "checkOut": "20:10",
+        "date": "2025-12-15"
+      },
+      {
+        "checkIn": "09:08",
+        "checkOut": "18:29",
+        "date": "2025-12-16"
+      },
+      {
+        "checkIn": "09:17",
+        "checkOut": "19:21",
+        "date": "2025-12-17"
+      },
+      {
+        "checkIn": "09:57",
+        "checkOut": "18:32",
+        "date": "2025-12-18"
+      },
+      {
+        "checkIn": "10:26",
+        "checkOut": "17:40",
+        "date": "2025-12-19"
+      },
+      {
+        "checkIn": "09:40",
+        "checkOut": "20:11",
+        "date": "2025-12-22"
+      },
+      {
+        "date": "2025-12-25",
+        "isVacation": true
+      },
+      {
+        "date": "2025-12-26",
+        "isVacation": true
+      },
+      {
+        "checkIn": "10:15",
+        "checkOut": "20:02",
+        "date": "2025-12-23"
+      },
+      {
+        "checkIn": "10:25",
+        "checkOut": "17:10",
+        "date": "2025-12-24"
+      },
+      {
+        "checkIn": "10:14",
+        "checkOut": "20:38",
+        "date": "2025-12-29"
+      },
+      {
+        "date": "2025-12-31",
+        "isVacation": true
+      },
+      {
+        "date": "2026-01-01",
+        "isVacation": true
+      },
+      {
+        "checkIn": "10:11",
+        "checkOut": "18:11",
+        "date": "2025-12-30"
+      },
+      {
+        "checkIn": "09:40",
+        "checkOut": "19:20",
+        "date": "2026-01-02"
+      },
+      {
+        "checkIn": "10:22",
+        "checkOut": "20:22",
+        "date": "2026-01-05"
+      },
+      {
+        "checkIn": "10:27",
+        "checkOut": "20:10",
+        "date": "2026-01-06"
+      },
+      {
+        "checkIn": "10:15",
+        "checkOut": "20:11",
+        "date": "2026-01-07"
+      },
+      {
+        "checkIn": "10:10",
+        "checkOut": "19:33",
+        "date": "2026-01-08"
+      },
+      {
+        "checkIn": "09:44",
+        "checkOut": "16:13",
+        "date": "2026-01-09"
+      },
+      {
+        "checkIn": "10:20",
+        "date": "2026-01-12"
+      }
+    ],
+    "notifications": [
+      {
+        "title": "12월 회식",
+        "description": "가락시장 대게",
+        "targetDateTime": "2025-12-11T02:20:00.000Z",
+        "timings": [
+          "1day-before",
+          "30min-before"
+        ],
+        "isEnabled": true,
+        "id": "notif-1765263150520-w660bsndj",
+        "createdAt": "2025-12-09T06:52:30.520Z",
+        "updatedAt": "2025-12-09T06:52:30.520Z"
+      },
+      {
+        "title": "블로그 올리기",
+        "targetDateTime": "2025-12-15T09:30:00.000Z",
+        "timings": [
+          "at-time"
+        ],
+        "isEnabled": true,
+        "id": "notif-1765779476084-0i81q5gzm",
+        "createdAt": "2025-12-15T06:17:56.084Z",
+        "updatedAt": "2025-12-15T06:17:56.084Z"
+      },
+      {
+        "title": "김민서님 면접",
+        "targetDateTime": "2026-01-08T05:00:00.000Z",
+        "timings": [
+          "at-time",
+          "1day-before",
+          "1hour-before"
+        ],
+        "isEnabled": true,
+        "id": "notif-1767663036427-lcmz5mn2h",
+        "createdAt": "2026-01-06T01:30:36.427Z",
+        "updatedAt": "2026-01-06T01:30:36.427Z"
+      },
+      {
+        "title": "양지선님 면접",
+        "targetDateTime": "2026-01-09T01:00:00.000Z",
+        "timings": [
+          "30min-before",
+          "1day-before"
+        ],
+        "isEnabled": true,
+        "id": "notif-1767663067973-yd1vki8ax",
+        "createdAt": "2026-01-06T01:31:07.973Z",
+        "updatedAt": "2026-01-06T06:34:56.095Z"
+      }
+    ]
+  }
+}
